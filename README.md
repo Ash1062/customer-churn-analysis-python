@@ -1,4 +1,4 @@
-## Project Visualization
+## Customer Churn Distribution
 
 ![Customer Churn Analysis](churn_distribution.png)
 Customer Churn Analysis using Python
